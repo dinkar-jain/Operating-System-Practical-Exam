@@ -7,8 +7,12 @@ As the term is generally used, time slices are assigned to each process in equal
 
 * Output
 
+![](Q1.png)
+
 ### Q2 Demonstration of Fork()
 
 In this program, we are demonstrating the fork() function which is used for creating sub / child processes.
 
 * Output
+
+![](Q2.png)
